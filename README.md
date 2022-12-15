@@ -1,6 +1,6 @@
 # site-teste-witbiz
 
-## images do site:
+## imagens do site:
 
 ![2022-12-14_23-34](https://user-images.githubusercontent.com/119881573/207759185-fdb02ce8-48a2-403c-b115-97be96fc2b59.png)
 
